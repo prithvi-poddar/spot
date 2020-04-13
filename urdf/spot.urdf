@@ -283,7 +283,7 @@
 
   <link name="left_front_foot">
     <visual>
-      <origin rpy="0.0 0 0" xyz="0.602699 0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 0.244238 0.017011"/>
       <geometry>
         <mesh filename="package://spot/meshes/left_foot.dae"/>
       </geometry>
@@ -293,7 +293,7 @@
       <geometry>
         <mesh filename="package://spot/meshes/left_foot.dae"/>
       </geometry>
-      <origin rpy="0.0 0 0" xyz="0.602699 0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 0.244238 0.017011"/>
     </collision>
     <inertial>
       <mass value="0.7"/>
@@ -314,7 +314,7 @@
 
   <link name="left_back_foot">
     <visual>
-      <origin rpy="0.0 0 0" xyz="0.602699 0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 0.244238 0.017011"/>
       <geometry>
         <mesh filename="package://spot/meshes/left_foot.dae"/>
       </geometry>
@@ -324,7 +324,7 @@
       <geometry>
         <mesh filename="package://spot/meshes/left_foot.dae"/>
       </geometry>
-      <origin rpy="0.0 0 0" xyz="0.602699 0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 0.244238 0.017011"/>
     </collision>
     <inertial>
       <mass value="0.7"/>
@@ -345,7 +345,7 @@
 
   <link name="right_front_foot">
     <visual>
-      <origin rpy="0.0 0 0" xyz="0.602699 -0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 -0.244238 0.017011"/>
       <geometry>
         <mesh filename="package://spot/meshes/right_foot.dae"/>
       </geometry>
@@ -355,7 +355,7 @@
       <geometry>
         <mesh filename="package://spot/meshes/right_foot.dae"/>
       </geometry>
-      <origin rpy="0.0 0 0" xyz="0.602699 -0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 -0.244238 0.017011"/>
     </collision>
     <inertial>
       <mass value="0.7"/>
@@ -376,7 +376,7 @@
 
   <link name="right_back_foot">
     <visual>
-      <origin rpy="0.0 0 0" xyz="0.602699 -0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 -0.244238 0.017011"/>
       <geometry>
         <mesh filename="package://spot/meshes/right_foot.dae"/>
       </geometry>
@@ -386,7 +386,7 @@
       <geometry>
         <mesh filename="package://spot/meshes/right_foot.dae"/>
       </geometry>
-      <origin rpy="0.0 0 0" xyz="0.602699 -0.244238 0.017011"/>
+      <origin rpy="3.14159 0 0" xyz="0.602699 -0.244238 0.017011"/>
     </collision>
     <inertial>
       <mass value="0.7"/>
